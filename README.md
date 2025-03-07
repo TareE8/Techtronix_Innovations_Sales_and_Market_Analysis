@@ -136,6 +136,23 @@ Excel – Data cleaning and exploratory analysis
 
 ---
 ### Visualisations
+This analysis has for dasboards.
+
+**1.Sales Analysis**
+
+![](img/sales.PNG)
+
+**2.Customer Insight**
+
+![](img/cus.PNG)
+
+**3.Inventory Optimisation**
+
+![](img/inv.PNG)
+
+**4.Expansion**
+
+![](img/exp.PNG)
 
 
 ---
